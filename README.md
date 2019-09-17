@@ -1,2 +1,5 @@
-# hello-world
-just for test
+public class HellWorld{
+public static void main(String[] args){
+System.out.println("");
+}
+}
